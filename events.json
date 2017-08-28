@@ -3,9 +3,14 @@
         "Day": "Monday",
         "Day Type": "B-day",
         "Events": {
+            "Guard Class": {
+                "Type": "Class",
+                "Time": "11:08-12:44",
+                "Location": "Mr. Rummel"
+            },
             "Varsity Rehersal": {
                 "Type": "Varsity Rehersal",
-                "Time": "4:30–6:30",
+                "Time": "4:30-6:30",
                 "Location": "Band Field"
             }
         }
@@ -16,7 +21,7 @@
         "Events": {
             "Varsity Rehersal": {
                 "Type": "Varsity Rehersal",
-                "Time": "4:30–6:30",
+                "Time": "4:30-6:30",
                 "Location": "Band Field"
             }
         }
@@ -25,9 +30,14 @@
         "Day": "Wednesday",
         "Day Type": "B-day",
         "Events": {
+            "Guard Class": {
+                "Type": "Class",
+                "Time": "11:08-12:44",
+                "Location": "Mr. Rummel"
+            },
             "Varsity Rehersal": {
                 "Type": "Varsity Rehersal",
-                "Time": "4:30–6:30",
+                "Time": "4:30-6:30",
                 "Location": "Band Field"
             }
         }
@@ -38,7 +48,7 @@
         "Events": {
             "Varsity Rehersal": {
                 "Type": "Varsity Rehersal",
-                "Time": "4:30–6:30",
+                "Time": "4:30-6:30",
                 "Location": "Band Field"
             }
         }
@@ -47,14 +57,181 @@
         "Day": "Friday",
         "Day Type": "B-day",
         "Events": {
+            "Guard Class": {
+                "Type": "Class",
+                "Time": "11:08-12:44",
+                "Location": "Mr. Rummel"
+            },
             "Football Game VS LD Bell": {
                 "Type": "Varsity Football Game",
-                "Time": "4:30–6:30",
+                "Time": "4:00-11:15",
                 "Location": "Pennington Field",
+                "Itinerary": ["4:00 - Students Dismissed from School - eat, pack, and load",
+                              "5:00 - Full Ensemble Meeting in the Band Hall",
+                              "5:15 - Depart for Pennington Field",
+                              "6:15 - Arrive at Pennington Field",
+                              "7:30 - Game Begins",
+                              "8:30 - Halftime Show (approximate)",
+                              "10:00 - Game Ends - load for departure",
+                              "10:30 - Depart for Coppell HS",
+                              "11:15 - Arrive at Coppell HS - please have a ride waiting"]
+            }
+        }
+    },
+    "02092017": {
+        "Day": "Saturday",
+        "Events": "None planned"
+    },
+    "03092017": {
+        "Day": "Sunday",
+        "Events": "None planned"
+    },
+    "04092017": {
+        "Day": "Monday",
+        "Events": "Labor Day -- None planned"
+    },
+    "05092017": {
+        "Day": "Tuesday",
+        "Day Type": "A-day",
+        "Events": {
+            "Varsity Rehersal": {
+                "Type": "Varsity Rehersal",
+                "Time": "4:30-6:30",
+                "Location": "Band Field"
+            }
+        }
+    },
+    "06092017": {
+        "Day": "Wednesday",
+        "Day Type": "B-day",
+        "Events": {
+            "Guard Class": {
+                "Type": "Class",
+                "Time": "11:08-12:44",
+                "Location": "Mr. Rummel"
+            },
+            "Varsity Rehersal": {
+                "Type": "Varsity Rehersal",
+                "Time": "4:30-6:30",
+                "Location": "Band Field"
+            }
+        }
+    },
+    "07092017": {
+        "Day": "Thursday",
+        "Day Type": "A-day",
+        "Events": {
+            "Varsity Rehersal": {
+                "Type": "Varsity Rehersal",
+                "Time": "4:30-6:30",
+                "Location": "Band Field"
+            }
+        }
+    },
+    "08092017": {
+        "Day": "Friday",
+        "Day Type": "B-day",
+        "Events": {
+            "Pep Rally #1": {
+                "Type": "Pep Rally",
+                "Time": "8:30-9:30",
+                "Location": "Buddy Echols Field"
+            },
+            "Guard Class": {
+                "Type": "Class",
+                "Time": "11:08-12:44",
+                "Location": "Mr. Rummel"
+            },
+            "Football Game VS McKinney-Boyd HS": {
+                "Type": "Varsity Football Game",
+                "Time": "4:00-11:15",
+                "Location": "Buddy Echols Field",
+                "Itinerary": ["4:00pm - Students Dismissed from School",
+                              "4:30pm - Indoor Ensemble Rehearsal",
+                              "5:00pm - Rehearsal ends - eat and dress",
+                              "6:15pm - Full Ensemble Meeting in the Band Hall",
+                              "6:45pm - March to Stadium",
+                              "7:30pm - Game Begins",
+                              "8:30pm - Halftime Show (approximate)",
+                              "10:00pm - Game Ends",
+                              "10:30pm - Return to Band Hall - please have a ride waiting"]
+            }
+        }
+    },
+    "09092017": {
+        "Day": "Saturday",
+        "Events": "CHS Band-approved ACT Test Date"
+    },
+    "10092017": {
+        "Day": "Sunday",
+        "Events": "None planned"
+    },
+    "11092017": {
+        "Day": "Monday",
+        "Day Type": "A-day",
+        "Events": {
+            "Varsity Rehersal": {
+                "Type": "Varsity Rehersal",
+                "Time": "4:30-6:30",
+                "Location": "Band Field"
+            }
+        }
+    },
+    "12092017": {
+        "Day": "Tuesday",
+        "Day Type": "B-day",
+        "Events": {
+            "Varsity Rehersal": {
+                "Type": "Varsity Rehersal",
+                "Time": "4:30-6:30",
+                "Location": "Band Field"
+            }
+        }
+    },
+    "13092017": {
+        "Day": "Wednesday",
+        "Day Type": "A-day",
+        "Events": {
+            "Guard Class": {
+                "Type": "Class",
+                "Time": "11:08-12:44",
+                "Location": "Mr. Rummel"
+            },
+            "Varsity Rehersal": {
+                "Type": "Varsity Rehersal",
+                "Time": "4:30-6:30",
+                "Location": "Band Field"
+            }
+        }
+    },
+    "14092017": {
+        "Day": "Thursday",
+        "Day Type": "B-day",
+        "Events": {
+            "Varsity Rehersal": {
+                "Type": "Varsity Rehersal",
+                "Time": "4:30-6:30",
+                "Location": "Band Field"
+            }
+        }
+    },
+    "15092017": {
+        "Day": "Friday",
+        "Day Type": "A-day",
+        "Events": {
+            "Guard Class": {
+                "Type": "Class",
+                "Time": "11:08-12:44",
+                "Location": "Mr. Rummel"
+            },
+            "Football Game VS Allen HS": {
+                "Type": "Varsity Football Game",
+                "Time": "4:00-11:15",
+                "Location": "Allen Eagle Stadium",
                 "Itinerary": ["4:00pm - Students Dismissed from School - eat, pack, and load",
                               "5:00pm - Full Ensemble Meeting in the Band Hall",
-                              "5:15pm - Depart for Pennington Field",
-                              "6:15pm - Arrive at Pennington Field",
+                              "5:15pm - Depart for Allen Eagle Stadium",
+                              "6:15pm - Arrive at Allen Eagle Stadium",
                               "7:30pm - Game Begins",
                               "8:30pm - Halftime Show (approximate)",
                               "10:00pm - Game Ends - load for departure",
@@ -63,16 +240,12 @@
             }
         }
     },
-    "28082017": {
+    "16092017": {
         "Day": "Saturday",
         "Events": "None planned"
     },
-    "29082017": {
+    "17092017": {
         "Day": "Sunday",
         "Events": "None planned"
-    },
-    "28082017": {
-        "Day": "Monday",
-        "Events": "Labor Day -- None planned"
-    },
+    }
 }
