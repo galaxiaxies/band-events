@@ -1,0 +1,78 @@
+{
+    "28082017": {
+        "Day": "Monday",
+        "Day Type": "B-day",
+        "Events": {
+            "Varsity Rehersal": {
+                "Type": "Varsity Rehersal",
+                "Time": "4:30–6:30",
+                "Location": "Band Field"
+            }
+        }
+    },
+    "29082017": {
+        "Day": "Tuesday",
+        "Day Type": "A-day",
+        "Events": {
+            "Varsity Rehersal": {
+                "Type": "Varsity Rehersal",
+                "Time": "4:30–6:30",
+                "Location": "Band Field"
+            }
+        }
+    },
+    "30082017": {
+        "Day": "Wednesday",
+        "Day Type": "B-day",
+        "Events": {
+            "Varsity Rehersal": {
+                "Type": "Varsity Rehersal",
+                "Time": "4:30–6:30",
+                "Location": "Band Field"
+            }
+        }
+    },
+    "31082017": {
+        "Day": "Thursday",
+        "Day Type": "A-day",
+        "Events": {
+            "Varsity Rehersal": {
+                "Type": "Varsity Rehersal",
+                "Time": "4:30–6:30",
+                "Location": "Band Field"
+            }
+        }
+    },
+    "01092017": {
+        "Day": "Friday",
+        "Day Type": "B-day",
+        "Events": {
+            "Football Game VS LD Bell": {
+                "Type": "Varsity Football Game",
+                "Time": "4:30–6:30",
+                "Location": "Pennington Field",
+                "Itinerary": ["4:00pm - Students Dismissed from School - eat, pack, and load",
+                              "5:00pm - Full Ensemble Meeting in the Band Hall",
+                              "5:15pm - Depart for Pennington Field",
+                              "6:15pm - Arrive at Pennington Field",
+                              "7:30pm - Game Begins",
+                              "8:30pm - Halftime Show (approximate)",
+                              "10:00pm - Game Ends - load for departure",
+                              "10:30pm - Depart for Coppell HS",
+                              "11:15pm - Arrive at Coppell HS - please have a ride waiting"]
+            }
+        }
+    },
+    "28082017": {
+        "Day": "Saturday",
+        "Events": "None planned"
+    },
+    "29082017": {
+        "Day": "Sunday",
+        "Events": "None planned"
+    },
+    "28082017": {
+        "Day": "Monday",
+        "Events": "Labor Day -- None planned"
+    },
+}
